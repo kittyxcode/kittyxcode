@@ -9,7 +9,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kittyxcode?style=social)
 
 
-## About Me ✨🌸
+## About Me ✨🌸🌸
 
 
 * 💻 🌐 👩🏼‍💻 Full Stack Developer
